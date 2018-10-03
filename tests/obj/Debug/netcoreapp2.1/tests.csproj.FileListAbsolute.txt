@@ -1,0 +1,17 @@
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\tests.deps.json
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.json
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\tests.runtimeconfig.dev.json
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\tests.dll
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\tests.pdb
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\api.dll
+C:\dotnet\CI_Docker\tests\bin\Debug\netcoreapp2.1\api.pdb
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.csprojAssemblyReference.cache
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.csproj.CoreCompileInputs.cache
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfoInputs.cache
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.AssemblyInfo.cs
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.csproj.CopyComplete
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.dll
+C:\dotnet\CI_Docker\tests\obj\Debug\netcoreapp2.1\tests.pdb
